@@ -1,0 +1,5 @@
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Util\bin\Debug\CurrencyConverter.Util.dll
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Util\bin\Debug\CurrencyConverter.Util.pdb
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Util\obj\Debug\CurrencyConverter.Util.csprojResolveAssemblyReference.cache
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Util\obj\Debug\CurrencyConverter.Util.dll
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Util\obj\Debug\CurrencyConverter.Util.pdb

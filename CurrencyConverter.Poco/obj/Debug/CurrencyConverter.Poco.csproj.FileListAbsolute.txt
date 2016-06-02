@@ -1,0 +1,5 @@
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Poco\bin\Debug\CurrencyConverter.Poco.dll
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Poco\bin\Debug\CurrencyConverter.Poco.pdb
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Poco\obj\Debug\CurrencyConverter.Poco.csprojResolveAssemblyReference.cache
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Poco\obj\Debug\CurrencyConverter.Poco.dll
+C:\Code\CodeChallenge\CurrencyConverter\CurrencyConverter.Poco\obj\Debug\CurrencyConverter.Poco.pdb

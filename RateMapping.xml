@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfCurrencyMap xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <CurrencyMap>
+      <FromCurrencyName>BDT</FromCurrencyName>
+      <ToCurrencyName>USD</ToCurrencyName>
+      <ExchangeRate>0.2</ExchangeRate>
+   </CurrencyMap>
+   <CurrencyMap>
+      <FromCurrencyName>USD</FromCurrencyName>
+      <ToCurrencyName>EUR</ToCurrencyName>
+      <ExchangeRate>0.9</ExchangeRate>
+   </CurrencyMap>
+   <CurrencyMap>
+      <FromCurrencyName>GPB</FromCurrencyName>
+      <ToCurrencyName>USD</ToCurrencyName>
+      <ExchangeRate>1.2</ExchangeRate>
+   </CurrencyMap>
+  <CurrencyMap>
+    <FromCurrencyName>USD</FromCurrencyName>
+    <ToCurrencyName>GPB</ToCurrencyName>
+    <ExchangeRate>0.9</ExchangeRate>
+  </CurrencyMap>
+</ArrayOfCurrencyMap>
